@@ -1,0 +1,1 @@
+This is simple script that moves all system apps back into system partition in particular updates. Thus recovers space lost on the device. Does everything in one on a devices with adb root, no effort required. 
